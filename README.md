@@ -1,6 +1,7 @@
 # Retropie Guide
 
-Die Retropie Guide ist eine Anleitung über das Betriebssystem Retropie.
+Die Retropie Guide ist eine Anleitung über das Betriebssystem Retropie. <br>
+PDF herunterladen: [Retropie Guide PDF](https://github.com/Severinboegli/Retropie-Anleitung/releases/download/final/Retropie.Guide.pdf)
 
 ![Retropie Logo](https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png "Retropie Logo")
 
